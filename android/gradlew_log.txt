@@ -1,0 +1,46 @@
+Initialized native services in: /Users/nikhilwilson/.gradle/native
+Initialized jansi services in: /Users/nikhilwilson/.gradle/native
+Received JVM installation metadata from '/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home': {JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home, JAVA_VERSION=17.0.12, JAVA_VENDOR=Azul Systems, Inc., RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=17.0.12+7-LTS, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=17.0.12+7-LTS, VM_VENDOR=Azul Systems, Inc., OS_ARCH=x86_64}
+The client will now receive all logging from the daemon (pid: 6248). The daemon log file: /Users/nikhilwilson/.gradle/daemon/8.6/daemon-6248.out.log
+Starting 2nd build in daemon [uptime: 6.424 secs, performance: 100%, GC rate: 0.00/s, heap usage: 0% of 2 GiB, non-heap usage: 5% of 512 MiB]
+Using 6 worker leases.
+Now considering [/Users/nikhilwilson/Documents/tutorials/react_native/proj01/android] as hierarchies to watch
+Watching the file system is configured to be enabled if available
+File system watching is active
+Starting Build
+Starting process 'command 'node''. Working directory: /Users/nikhilwilson/Documents/tutorials/react_native/proj01/android Command: node -e try {console.log(require('@react-native-community/cli').bin);} catch (e) {console.log(require('react-native/cli').bin);}
+Successfully started process 'command 'node''
+Starting process 'command 'node''. Working directory: /Users/nikhilwilson/Documents/tutorials/react_native/proj01/android Command: node /Users/nikhilwilson/Documents/tutorials/react_native/proj01/node_modules/@react-native-community/cli/build/bin.js config
+Successfully started process 'command 'node''
+Settings evaluated using settings file '/Users/nikhilwilson/Documents/tutorials/react_native/proj01/android/settings.gradle'.
+Now considering [/Users/nikhilwilson/Documents/tutorials/react_native/proj01/node_modules/@react-native/gradle-plugin, /Users/nikhilwilson/Documents/tutorials/react_native/proj01/android] as hierarchies to watch
+Transforming foojay-resolver-0.5.0.jar (org.gradle.toolchains:foojay-resolver:0.5.0) with ExternalDependencyInstrumentingArtifactTransform
+Transforming gson-2.9.1.jar (com.google.code.gson:gson:2.9.1) with ExternalDependencyInstrumentingArtifactTransform
+Projects loaded. Root project using build file '/Users/nikhilwilson/Documents/tutorials/react_native/proj01/android/build.gradle'.
+Included projects: [root project 'proj01', project ':app']
+
+> Configure project :gradle-plugin
+Evaluating project ':gradle-plugin' using build file '/Users/nikhilwilson/Documents/tutorials/react_native/proj01/node_modules/@react-native/gradle-plugin/build.gradle.kts'.
+Transforming kotlin-gradle-plugin-model-1.9.22.jar (org.jetbrains.kotlin:kotlin-gradle-plugin-model:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-gradle-plugin-api-1.9.22.jar (org.jetbrains.kotlin:kotlin-gradle-plugin-api:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-gradle-plugin-idea-1.9.22.jar (org.jetbrains.kotlin:kotlin-gradle-plugin-idea:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-klib-commonizer-api-1.9.22.jar (org.jetbrains.kotlin:kotlin-klib-commonizer-api:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-gradle-plugin-idea-proto-1.9.22.jar (org.jetbrains.kotlin:kotlin-gradle-plugin-idea-proto:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-native-utils-1.9.22.jar (org.jetbrains.kotlin:kotlin-native-utils:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-util-klib-1.9.22.jar (org.jetbrains.kotlin:kotlin-util-klib:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-build-tools-api-1.9.22.jar (org.jetbrains.kotlin:kotlin-build-tools-api:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-compiler-runner-1.9.22.jar (org.jetbrains.kotlin:kotlin-compiler-runner:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-android-extensions-1.9.22.jar (org.jetbrains.kotlin:kotlin-android-extensions:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-scripting-compiler-impl-embeddable-1.9.22.jar (org.jetbrains.kotlin:kotlin-scripting-compiler-impl-embeddable:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-project-model-1.9.22.jar (org.jetbrains.kotlin:kotlin-project-model:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-gradle-plugin-annotations-1.9.22.jar (org.jetbrains.kotlin:kotlin-gradle-plugin-annotations:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-scripting-compiler-embeddable-1.9.22.jar (org.jetbrains.kotlin:kotlin-scripting-compiler-embeddable:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-daemon-embeddable-1.9.22.jar (org.jetbrains.kotlin:kotlin-daemon-embeddable:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-util-io-1.9.22.jar (org.jetbrains.kotlin:kotlin-util-io:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-tooling-core-1.9.22.jar (org.jetbrains.kotlin:kotlin-tooling-core:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming trove4j-1.0.20200330.jar (org.jetbrains.intellij.deps:trove4j:1.0.20200330) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlinx-coroutines-core-jvm-1.5.0.jar (org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.0) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-daemon-client-1.9.22.jar (org.jetbrains.kotlin:kotlin-daemon-client:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-scripting-jvm-1.9.22.jar (org.jetbrains.kotlin:kotlin-scripting-jvm:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Transforming kotlin-scripting-common-1.9.22.jar (org.jetbrains.kotlin:kotlin-scripting-common:1.9.22) with ExternalDependencyInstrumentingArtifactTransform
+Watched directory hierarchies: [/Users/nikhilwilson/Documents/tutorials/react_native/proj01/android]

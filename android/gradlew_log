@@ -1,0 +1,25 @@
+Initialized native services in: /Users/nikhilwilson/.gradle/native
+Initialized jansi services in: /Users/nikhilwilson/.gradle/native
+Received JVM installation metadata from '/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home': {JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home, JAVA_VERSION=17.0.12, JAVA_VENDOR=Azul Systems, Inc., RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=17.0.12+7-LTS, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=17.0.12+7-LTS, VM_VENDOR=Azul Systems, Inc., OS_ARCH=x86_64}
+Waiting for daemons with canceled builds to become available
+Removing 0 daemon stop events from registry
+Previous Daemon (68319) stopped at Tue Aug 13 12:28:00 IST 2024 stop command received
+Previous Daemon (74635) stopped at Tue Aug 13 12:28:00 IST 2024 stop command received
+Previous Daemon (93254) stopped at Tue Aug 13 12:30:50 IST 2024 stop command received
+Previous Daemon (94416) stopped at Tue Aug 13 12:32:45 IST 2024 stop command received
+Previous Daemon (44095) stopped at Tue Aug 13 12:27:59 IST 2024 by user or operating system
+Previous Daemon (54862) stopped at Tue Aug 13 12:27:59 IST 2024 by user or operating system
+Previous Daemon (63697) stopped at Tue Aug 13 12:27:59 IST 2024 by user or operating system
+Previous Daemon (67465) stopped at Tue Aug 13 12:27:59 IST 2024 by user or operating system
+Previous Daemon (74246) stopped at Tue Aug 13 12:28:00 IST 2024 by user or operating system
+Starting a Gradle Daemon, 1 busy and 9 stopped Daemons could not be reused, use --status for details
+Starting process 'Gradle build daemon'. Working directory: /Users/nikhilwilson/.gradle/daemon/8.6 Command: /Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home/bin/java -XX:MaxMetaspaceSize=512m --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED --add-opens=java.base/java.nio.charset=ALL-UNNAMED --add-opens=java.base/java.net=ALL-UNNAMED --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED -Xmx2048m -Dfile.encoding=UTF-8 -Duser.country=GB -Duser.language=en -Duser.variant -cp /Users/nikhilwilson/.gradle/wrapper/dists/gradle-8.6-all/3mbtmo166bl6vumsh5k2lkq5h/gradle-8.6/lib/gradle-launcher-8.6.jar -javaagent:/Users/nikhilwilson/.gradle/wrapper/dists/gradle-8.6-all/3mbtmo166bl6vumsh5k2lkq5h/gradle-8.6/lib/agents/gradle-instrumentation-agent-8.6.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 8.6
+Successfully started process 'Gradle build daemon'
+An attempt to start the daemon took 1.414 secs.
+The client will now receive all logging from the daemon (pid: 6248). The daemon log file: /Users/nikhilwilson/.gradle/daemon/8.6/daemon-6248.out.log
+Starting build in new daemon [memory: 2 GiB]
+Using 6 worker leases.
+Received JVM installation metadata from '/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home': {JAVA_HOME=/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home, JAVA_VERSION=17.0.12, JAVA_VENDOR=Azul Systems, Inc., RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=17.0.12+7-LTS, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=17.0.12+7-LTS, VM_VENDOR=Azul Systems, Inc., OS_ARCH=x86_64}
+Watching the file system is configured to be enabled if available
+Now considering [/Users/nikhilwilson/Documents/tutorials/react_native/proj01/android] as hierarchies to watch
+File system watching is active
